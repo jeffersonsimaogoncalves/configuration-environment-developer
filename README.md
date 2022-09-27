@@ -1,1 +1,1 @@
-# configuration-environment-developer
+# Configuração do ambiente de desenvolvimento
