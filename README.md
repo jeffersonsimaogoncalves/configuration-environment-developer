@@ -1,6 +1,6 @@
 # Configuração do ambiente de desenvolvimento
 
-# Dependencias Ubuntu 20.04.5 LTS:
+# Dependencias Ubuntu 20.04.5 LTS
 
 ```bash
 sudo apt install curl git
@@ -12,7 +12,7 @@ sudo apt install curl git
 git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.10.2
 ```
 
-# Dependencias NodeJS:
+# Dependencias NodeJS
 
 ```bash
 asdf plugin add nodejs https://github.com/asdf-vm/asdf-nodejs.git
@@ -23,7 +23,7 @@ asdf nodejs update-nodebuild
 ```
 
 
-# Dependencias PHP:
+# Dependencias PHP
 
 ```bash
 sudo apt-get install dirmngr gpg curl gawk build-essential libwebp-dev libfreetype6-dev libjpeg-turbo8-dev gdlib libwebp
