@@ -34,6 +34,10 @@ asdf plugin-add php https://github.com/asdf-community/asdf-php.git
 ```
 
 ```bash
+asdf install php 8.1.10 (PHP 8.1)
+```
+
+```bash
 asdf install php 8.0.23 (PHP 8.0)
 ```
 
