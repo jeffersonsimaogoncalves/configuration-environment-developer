@@ -26,7 +26,7 @@ asdf nodejs update-nodebuild
 # PHP
 
 ```bash
-sudo apt-get install dirmngr gpg curl gawk build-essential libwebp-dev libfreetype6-dev libjpeg-turbo8-dev gdlib libwebp
+sudo apt-get install -y autoconf bison build-essential curl gettext git libgd-dev libcurl4-openssl-dev libedit-dev libicu-dev libjpeg-dev libmysqlclient-dev libonig-dev libpng-dev libpq-dev libreadline-dev libsqlite3-dev libssl-dev libxml2-dev libzip-dev openssl pkg-config re2c zlib1g-dev
 ```
 
 ```bash
