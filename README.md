@@ -55,12 +55,12 @@ asdf plugin-add java https://github.com/halcyon/asdf-java.git
 asdf install java openjdk-19
 ```
 
-# Fnpm
+# Pnpm
 
 ```bash
-asdf plugin add nfpm https://github.com/ORCID/asdf-nfpm.git
+asdf plugin add pnpm https://github.com/jonathanmorley/asdf-pnpm.git
 ```
 
 ```bash
-asdf install nfpm latest
+asdf install pnpm latest
 ```
