@@ -44,6 +44,7 @@ asdf install php 8.0.23 (PHP 8.0)
 ```bash
 asdf install php 7.4.31 (PHP 7.4)
 ```
+[Fix error Install PHP 7.4 openssl version 1.1.1i](https://github.com/asdf-community/asdf-php/issues/131)
 
 # Java
 
